@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="dialpad_primary_text_color">#ff009925</color>
+  <color name="call_log_voicemail_highlight_color">#ff009925</color>
+  <color name="voicemail_playback_seek_bar_already_played">#ff009925</color>
+  <color name="item_selected">#66009925</color>
+  <color name="actionbar_background_color">#ff009925</color>
+  <color name="actionbar_underline">#ff009925</color>
+  <color name="tab_underline_selected_color">#ff009925</color>
+  <color name="tab_selected_color">#ff009925</color>
+  <color name="background_dialpad">#ff262626</color>
+  <color name="dialpad_digits_text_color">#ffffffff</color>
+</resources>
