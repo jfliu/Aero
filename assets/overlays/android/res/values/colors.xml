@@ -23,5 +23,5 @@
     <color name="highlighted_text_holo_light">#70009925</color>
     <color name="transparent">#00000000</color>
     <color name="bright_foreground_disabled_holo_dark">#ff515151</color>
-    <drawable name="notification_template_icon_bg">#ff1C1C1C</drawable>
+    <drawable name="notification_template_icon_bg">#ff262626</drawable>
 </resources>

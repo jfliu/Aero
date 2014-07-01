@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="linear_color_bar_left_color">#ff009925</color>
+    <color name="linear_color_bar_middle_color">#ff009925</color>
+    <color name="linear_color_bar_right_color">#ff848484</color>
+    <color name="linear_color_bar_gray_color">#ff848484</color>
+    <color name="linear_color_bar_white_color">#ffffffff</color>
+    <color name="divider_color">#ff009925</color>
+    <color name="setup_divider_color_dark">#ff009925</color>
+    <color name="setup_divider_color_light">#ff009925</color>
+    <color name="memory_used">#80009925</color>
+
+</resources>

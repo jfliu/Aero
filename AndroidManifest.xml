@@ -16,8 +16,9 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.your.theme.template">
-
+    package="com.ainen.aero">
+	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
+	
     <uses-feature android:required="true" android:name="com.ainen.aero" />
 
     <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Aero">
