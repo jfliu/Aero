@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_hint_letter_color_gb">#00009925</color>
+    <color name="key_hint_letter_color_holo">#00009925</color>
+    <color name="highlight_color_klp">#ff009925</color>
+    <color name="typed_word_color_klp">#d8009925</color>
+    <color name="suggested_word_color_klp">#b2009925</color>
+    <color name="highlight_translucent_color_klp">#99009925</color>
+</resources>
